@@ -1,0 +1,8 @@
+[package]
+name = "guava-client"
+version = "0.1.0"
+edition = "2018"
+authors = ["Pelanyo Kamara <pkamara@disroot.org>"]
+
+[dependencies]
+druid = { git = "https://github.com/linebender/druid.git" }
